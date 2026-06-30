@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5f0023/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5f0023/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 陰丹內篇
+  date: '2015-08-29 02:25:15.710097'
+  source:
+    repository: kanripo
+    path: KR5f0023
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5f0023_000-ZTDZ.yaml, hash: 'sha256:84a09de9b351c53c7770a3f8d55a60a654028fd194570287a8c314cea2415290'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5f0023_000-ZTDZ.markers.yaml, hash: 'sha256:60f517140a041f805ae39c77694ed730c32d34127b410d209102af4b13507874'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5f0023_SJB_000-280346a
+    span:
+    - body
+    - 0
+    - 437
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:16181d39a4cd537ff73d12a99f65b42b853bb4ab319b6a416de009fb339a67b8

@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5f0023/CK-KZ/v1
+canonical_location: https://kanripo.org/bkk/KR5f0023/CK-KZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 陰丹內篇
+  date: '2015-08-29 02:25:15.710097'
+  source:
+    repository: kanripo
+    path: KR5f0023
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5f0023_000-CK-KZ.yaml, hash: 'sha256:1f40d3c8a0413776a60733ce2684a3cca4205654db59b4ec5431da8f43cdedd3'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5f0023_000-CK-KZ.markers.yaml, hash: 'sha256:269abda285ea9ed7c2f5547cce17421235d3ffa2e40302e636c72fb0e91e2381'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5f0023_CK-KZ_01p040a
+    span:
+    - body
+    - 0
+    - 433
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:c24cd322d62b75b9fc731d526ab3dc97044449be4a38ed95e1383599f698d6fa

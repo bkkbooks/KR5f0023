@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5f0023/CK-KZ/v1/juan/0
+seq: 0
+front:
+  text: 陰丹內篇坎天也陽始生也離地也陰始生也陽豈無陰坎之外皆陰也陰豈無陽離之外皆陽也採陰之陽寶陽之陰守陽之陽變陽之陰是故上而從天下而沙泥中而平人皆易其形而乾位成矣紫廷紅鈆玉峰瓊漿丹壺炎光不失其方而三峰得矣必觀其妙二八爲斤三八爲兩而斤兩平矣必靜其輻四十爲文六十爲武而文武備矣一尺龍泉兩角蒼虯顯神物也琥珀拾芥磁石引針表神應也以鉛聚汞以汞聚神以神守形以氣引藥以藥引年以年煉形吾道盡矣得者勿言言者勿傳言而傳之殃及九祖受考三官
+  hash: sha256:849a0716489b89e0c29a9f328ebfebf72eb9c46835e29bfa08208a0ae7c20ed1
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5f0023_CK-KZ_01p040a, image: JY220/CK-KZ_JY220_01p040a.png}
+body:
+  text: 臣解曰天陽也始生於坎坤陰也始生於離陽亦有陰故坎內陽外陰陰亦有陽故離外陽內陰陰丹之訣唯採陽鍊陽銷去羣陰而以爲純陽之人此其法之大率也從天三爻也平人二爻也沙泥初爻也易其形則變陰爲陽紅鉛初鼎也瓊漿入藥也炎光火候也得其方則去彼取此觀妙之法以斤兩計之斤爲先兩次之斤則數少兩則數多多不如少之妙也靜輻之法以文武煅之文爲先武次之文則不暴武則雖暴而不繁躁靜各適其事之宜也龍泉蒼虯一奇二偶相繼以成體耦在上奇在下稱物宜也琥珀磁石異類一氣相資以入藥以陽召陽以陰召陰同聲氣也鈆入絳宫木氣不泄故曰以鉛聚汞汞集於身神乃不散故曰以汞聚神抱神以靜形乃長存故曰以神守形先聚其藥以氣點之藥隨氣至故曰以氣引藥藥入於鼎精神內守故曰以藥引年鍊形不已變成金骨故曰以年鍊形道至於此無復餘藴唯在愼其傳而已不愼其傳則九祖之殃三官之考非虛語也臣嘗觀吕仙翁鼎訣並傳士安所上陰丹訣互有異同雖云三峰其實有二蓋迷其所謂紫廷紅鉛而以丹壺流砂爲之是其所以減三而爲二者也今臣之所釋三者備矣而其大槪已盡於言以其當秘之也故錯亂其辭如參同契云
+  hash: sha256:ef967fa1f6cd16793fd476c2a1e14f17935a6d8d222f0284b6eecd0dd15de07d
+metadata:
+  title: 陰丹內篇
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+  date: '2015-08-29 02:25:15.710097'
+  source:
+    repository: kanripo
+    path: KR5f0023/KR5f0023_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:1f40d3c8a0413776a60733ce2684a3cca4205654db59b4ec5431da8f43cdedd3
